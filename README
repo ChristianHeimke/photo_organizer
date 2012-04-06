@@ -1,0 +1,7 @@
+The orginal script comes from 
+
+http://davehope.co.uk/Blog/sorting-your-photos-with-bash/
+and modified the 1st time here:
+http://sysadminnotebook.blogspot.de/2012/01/organize-your-photos-with-script.html
+
+I made some changs to be mac compatible (stat command and removed the exif information getter)
